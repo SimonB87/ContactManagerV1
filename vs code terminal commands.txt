@@ -1,0 +1,5 @@
+VS Code terminal:
+
+// installl react
+
+npx create-react-app .
